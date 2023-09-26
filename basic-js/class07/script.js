@@ -1,0 +1,2 @@
+// string
+let name = "Brunno";
